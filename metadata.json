@@ -1,0 +1,6 @@
+{
+  "name": "GreenLeaf Café & Bakery",
+  "description": "A neighborhood coffee shop serving specialty coffee and artisan pastries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
